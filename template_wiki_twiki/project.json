@@ -1,1 +1,8 @@
-{"guid":"template_wiki_twiki","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_wiki_twiki.git"}}
+{
+    "guid":"template_wiki_twiki",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_wiki_twiki.git"
+    }
+}
